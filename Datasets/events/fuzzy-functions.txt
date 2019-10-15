@@ -1,0 +1,46 @@
+/**
+ * @author Juan Boubeta-Puig <juan.boubeta@uca.es>, University of Cádiz, Spain
+ * @date 10th February, 2017
+ */
+ 
+// 5 min <= x <= 10 min
+public static double malfunctionFuzzy(Double x)
+{
+	Double res = Double.NaN;
+		
+	try { 
+		if (x != null) {
+			if (300 < x && x < 600)
+				res = 0.0;
+			else if (x <= 240 || x > 660) 
+				res = 1.0; 
+			else if (240 < x && x <= 300)
+				res = (300 - x) / 60; 
+			else if (600 <= x && x <= 660)
+				res = (x - 600) / 60; 
+		}
+	} catch (Exception e) {
+		System.out.println("There is an error in malfunctionFuzzy function: " + e.toString());
+	}
+	return res; 
+}
+
+// x > 10 min
+public static double failureFuzzy(Double x)
+{
+	Double res = Double.NaN; 
+		
+	try {
+		if (x != null) {    		
+			if (x > 600)
+				res = 0.0;
+			else if (x <= 540) 
+				res = 1.0; 
+			else if (540 < x && x <= 600)
+				res = (600 - x) / 60; 
+		}
+	} catch (Exception e) {
+		System.out.println("There is an error in failureFuzzy function: " + e.toString());
+	}
+	return res; 
+}
