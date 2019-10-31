@@ -8,7 +8,7 @@ Soccer analytics has gained its own craze in today's society. Be it for the medi
 
 
 ##### The Data
-The data has been collected from the website https://figshare.com/collections/Soccer_match_event_dataset/4415000 where we collected the data related to the matches, the teams, the players, the coaches and various events related to different nations. The analysis had several research goals.
+The data has been collected from ['this website'](https://figshare.com/collections/Soccer_match_event_dataset/4415000) where we collected the data related to the matches, the teams, the players, the coaches and various events related to different nations. The analysis had several research goals.
 
 ## RQ1
 The goal was to have a visualization of the weekly ranking of Premier League during 2017/18 season. Also, with this research it came out that the team with the longest winning streak was Manchester City, and the team with longest lose streak was West Bromwich. The same research was repeated over four other european leagues, i.e. Freanch, Spanish, Italian and German first divisions.
@@ -42,7 +42,7 @@ Research realized by Mirko
 The goal was to visualize the positions covered by Ronaldo and Messi during a specific match (Barcelona-Real Madrid played in May 2018) through a heatmap. Then, analyzing the match between Juventus and Napoli, we wanted to visualize positions and directions of passes made by Jorginho and Pjanic, and this was done through an arrow-map. Both maps were applied to a scaled version of the football pitch.
 Reasearch realized by Simone
 
-### In the repository can be found the Jupyter Notebook main.ipynb('https://github.com/Simonerc95/ADM-HW2/blob/master/main.ipynb'), in which all the results of RQ's and CRQ's analysis can be found.
+### In the repository can be found the Jupyter Notebook ['main.ipynb'](https://github.com/Simonerc95/ADM-HW2/blob/master/main.ipynb), in which all the results of RQ's and CRQ's analysis can be found.
 
-### In the file theory.ipynb('https://github.com/Simonerc95/ADM-HW2/blob/master/theory.ipynb'), a computation of the execution time of a function called SplitSwap can be found. 
+### In the file ['theory.ipynb'](https://github.com/Simonerc95/ADM-HW2/blob/master/theory.ipynb), a computation of the execution time of a function called SplitSwap can be found. 
 The theoretical question was completed by Mirko
