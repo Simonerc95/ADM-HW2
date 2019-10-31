@@ -42,7 +42,7 @@ Research realized by Mirko
 The goal was to visualize the positions covered by Ronaldo and Messi during a specific match (Barcelona-Real Madrid played in May 2018) through a heatmap. Then, analyzing the match between Juventus and Napoli, we wanted to visualize positions and directions of passes made by Jorginho and Pjanic, and this was done through an arrow-map. Both maps were applied to a scaled version of the football pitch.
 Reasearch realized by Simone
 
-### In the repository can be found the Jupyter Notebook main.ipynb, in which all theresults of RQ's and CRQ's can be found.
+### In the repository can be found the Jupyter Notebook main.ipynb('https://github.com/Simonerc95/ADM-HW2/blob/master/main.ipynb'), in which all the results of RQ's and CRQ's analysis can be found.
 
-### In the file theory.ipynb, a computation of the execution time of a function called SplitSwap can be found. 
+### In the file theory.ipynb('https://github.com/Simonerc95/ADM-HW2/blob/master/theory.ipynb'), a computation of the execution time of a function called SplitSwap can be found. 
 The theoretical question was completed by Mirko
