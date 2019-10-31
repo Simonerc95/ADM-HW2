@@ -42,6 +42,8 @@ Research realized by Mirko
 The goal was to visualize the positions covered by Ronaldo and Messi during a specific match (Barcelona-Real Madrid played in May 2018) through a heatmap. Then, analyzing the match between Juventus and Napoli, we wanted to visualize positions and directions of passes made by Jorginho and Pjanic, and this was done through an arrow-map. Both maps were applied to a scaled version of the football pitch.
 Reasearch realized by Simone
 
+Apart from the mandatory questions, the bonus part was also taken care of in the research. We re-ran the analysis of the research question for all the other leagues and tried to come up with significant observations that is prevalent amongst the various leagues. Besides, besides Matplotlib only, we tried to play around with Seaborn library which allowed us to get nice and attractive plots.
+
 ### In the repository can be found the Jupyter Notebook ['main.ipynb'](https://github.com/Simonerc95/ADM-HW2/blob/master/main.ipynb), in which all the results of RQ's and CRQ's analysis can be found.
 
 ### In the file ['theory.ipynb'](https://github.com/Simonerc95/ADM-HW2/blob/master/theory.ipynb), a computation of the execution time of a function called SplitSwap can be found. 
